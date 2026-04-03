@@ -20,4 +20,7 @@
 //  ForEach metodi
 const numbers = [2, 3, 4, 5,];
 const newNumber = [];
-const number
+numbers.forEach(num => {
+    newNumber.push(num ** 2)
+});
+console.log(newNumber);
