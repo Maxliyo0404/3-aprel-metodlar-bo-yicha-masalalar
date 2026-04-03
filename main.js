@@ -33,4 +33,8 @@
     
 // })
 // For metodi
-let numbers = [2, 3, 4, 5, 6, 7,];
+let numbers = [2, 3, 4, 5, 6, 7];
+for (let i = 0 < numbers.length; i++){
+    console.log(numbers[i]);
+    
+}
