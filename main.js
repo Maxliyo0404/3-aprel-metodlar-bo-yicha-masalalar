@@ -12,5 +12,6 @@ let books = [
     { name: 'Sotilayotgan kasaliklar', year: 2025, reating : 3 },
 ]
 let book = books.map((good) => {
-    return
+    return{ name: good.name, year: good.year, reating: good.reating +1};
 })
+console.log(book);
