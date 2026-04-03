@@ -41,6 +41,6 @@
 // 2-masala
 let names = ['Farxod', 'Baxrom', 'Sherzod','Shokir'];
 for (let i = 0; i < names.length){
-    console.log(names);
+    console.log(names[i]);
     
 }
