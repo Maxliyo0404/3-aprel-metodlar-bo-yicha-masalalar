@@ -18,3 +18,6 @@
 // console.log(book);
 
 //  ForEach metodi
+const numbers = [2, 3, 4, 5,];
+const newNumber = [];
+const number
