@@ -7,7 +7,10 @@
 // 2-masala
 let books = [
     { name: 'Ikki eshik orasi', year: 2005, reating : 9 },
-    { name: 'Otkan kunlar', year: 2008, reating : 8 },
-    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
-    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
+    { name: 'Otkan kunlar', year: 2008, reating : 7 },
+    { name: 'Sarob', year: 2010, reating : 5 },
+    { name: 'Sotilayotgan kasaliklar', year: 2025, reating : 3 },
 ]
+let book = books.map((good) => {
+    return
+})
