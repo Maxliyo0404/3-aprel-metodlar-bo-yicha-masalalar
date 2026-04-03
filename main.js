@@ -32,3 +32,4 @@
 //     console.log(yangi);
     
 // })
+// For metodi
