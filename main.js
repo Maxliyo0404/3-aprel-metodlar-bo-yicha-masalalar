@@ -5,6 +5,9 @@
 // })
 // console.log(newNumber);
 // 2-masala
-let fruits = [
-    { name: 'Apple red', }
+let books = [
+    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
+    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
+    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
+    { name: 'Ikki eshik orasi', year: 2012, reating : 8 },
 ]
