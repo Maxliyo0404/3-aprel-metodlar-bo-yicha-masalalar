@@ -25,3 +25,4 @@
 // });
 // console.log(newNumber);
 // 2-masala
+let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
