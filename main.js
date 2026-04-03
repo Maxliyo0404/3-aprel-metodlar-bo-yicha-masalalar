@@ -39,4 +39,5 @@
     
 // }
 // 2-masala
-let names = ['Farxod', 'Baxrom']
+let names = ['Farxod', 'Baxrom', 'Sherzod','Shokir'];
+for (let i = 0;)
