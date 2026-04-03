@@ -26,3 +26,8 @@
 // console.log(newNumber);
 // 2-masala
 let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
+ismlar.forEach(function (ism){
+    let yangi = ism.charAt().toUpperCase() + ism.slice(1).toLowerCase() + "xon";
+    console.log(yangi);
+    
+})
