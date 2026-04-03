@@ -40,7 +40,7 @@
 // }
 // 2-masala
 let names = ['Farxod', 'Baxrom', 'Sherzod','Shokir'];
-for (let i = 0; i < names.length){
+for (let i = 0; i < names.length; i++){
     console.log(names[i]);
     
 }
