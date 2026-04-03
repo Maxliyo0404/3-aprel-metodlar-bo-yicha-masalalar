@@ -50,3 +50,4 @@
 // let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
 // let ism = ismlar.sort();
 // console.log(ism);
+// 2-masala
