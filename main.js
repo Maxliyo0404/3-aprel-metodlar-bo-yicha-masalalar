@@ -48,3 +48,5 @@
 // 4.sort metodi
 
 let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
+let ism = ismlar.sort();
+console.log(ism);
