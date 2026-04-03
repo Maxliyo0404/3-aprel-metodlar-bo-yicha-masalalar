@@ -32,10 +32,10 @@
 //     console.log(yangi);
     
 // })
-// // For metodi
-// let numbers = [2, 3, 4, 5, 6, 7];
-// for (let i = 0; i < numbers.length; i ++) {
-//     console.log(numbers[i]);
+// For metodi
+let numbers = [2, 3, 4, 5, 6, 7];
+for (let i = 0; i < numbers.length; i ++) {
+    console.log(numbers[i]);
     
 // }
 // 2-masala
