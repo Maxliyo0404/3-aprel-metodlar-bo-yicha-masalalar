@@ -51,3 +51,6 @@
 // let ism = ismlar.sort();
 // console.log(ism);
 // 2-masala
+
+let numbers = [2, 8, 3, 5, 4, 7];
+l
