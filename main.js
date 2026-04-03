@@ -38,4 +38,5 @@
 //     console.log(numbers[i]);
     
 // }
-2-masala
+// 2-masala
+let names = ['Farxod', 'Baxrom']
