@@ -1,4 +1,4 @@
-// Map metodi
+// 1. Map metodi
 
 // let numbers =[2, 3, 4, 5, 6, 7, 8, 9];
 // let newNumber = numbers.map((num) => {
@@ -17,7 +17,8 @@
 // })
 // console.log(book);
 
-//  ForEach metodi
+// 2.  ForEach metodi
+
 // const numbers = [2, 3, 4, 5,];
 // const newNumber = [];
 // numbers.forEach(num => {
@@ -25,9 +26,9 @@
 // });
 // console.log(newNumber);
 // 2-masala
-let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
-ismlar.forEach(function (ism){
-    let yangi = ism.charAt().toUpperCase() + ism.slice(1).toLowerCase() + "xon";
-    console.log(yangi);
+// let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
+// ismlar.forEach(function (ism){
+//     let yangi = ism.charAt().toUpperCase() + ism.slice(1).toLowerCase() + "xon";
+//     console.log(yangi);
     
-})
+// })
