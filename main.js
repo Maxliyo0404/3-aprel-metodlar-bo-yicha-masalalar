@@ -18,9 +18,10 @@
 // console.log(book);
 
 //  ForEach metodi
-const numbers = [2, 3, 4, 5,];
-const newNumber = [];
-numbers.forEach(num => {
-    newNumber.push(num ** 2)
-});
-console.log(newNumber);
+// const numbers = [2, 3, 4, 5,];
+// const newNumber = [];
+// numbers.forEach(num => {
+//     newNumber.push(num ** 2)
+// });
+// console.log(newNumber);
+// 2-masala
