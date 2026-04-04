@@ -65,5 +65,5 @@
  
 // 2-masala
 const fruits = ['banana', 'apple', 'oringe','pear', 'peach'];
-let fruit = fruits.filter();
-console.log(fruit);
+let newFruit = fruits.filter(fruit);
+console.log(newFruit);
