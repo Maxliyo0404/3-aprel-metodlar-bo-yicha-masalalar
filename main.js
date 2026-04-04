@@ -89,6 +89,6 @@
 //  console.log(fruits);
 
 // 8. Shift metodi
-let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-ismlar.shift("Maxliyo");
-console.log(ismlar);
+// let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
+// ismlar.shift("Maxliyo");
+// console.log(ismlar);
