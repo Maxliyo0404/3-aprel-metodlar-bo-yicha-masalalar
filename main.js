@@ -80,7 +80,7 @@
 //  console.log(newFruit);
   
 // 7.Push metodi
- let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
- let yangi = ismlar.push('Malika');
- console.log(yangi);
+//  let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
+//  let yangi = ismlar.push('Malika');
+//  console.log(yangi);
  
