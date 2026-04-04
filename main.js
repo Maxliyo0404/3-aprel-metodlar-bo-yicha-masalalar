@@ -89,11 +89,11 @@
 //  console.log(fruits);
 
 // 8. Shift metodi
-// let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-// ismlar.shift("Maxliyo");
-// console.log(ismlar);
+let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
+ismlar.shift();
+console.log(ismlar);
 // 2-masala
-const fruits = ['banana', 'apple', 'oringe'];
-//  let newFruit = fruits.pop();
-//  console.log(newFruit);
+// const fruits = ['banana', 'apple', 'oringe'];
+//   let newFruit = fruits.shift();
+//   console.log(newFruit);
   
