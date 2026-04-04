@@ -81,4 +81,6 @@
   
 // 7.Push metodi
  let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
- let yangi = ismlar
+ let yangi = ismlar.push('Malika');
+ console.log(yangi);
+ 
