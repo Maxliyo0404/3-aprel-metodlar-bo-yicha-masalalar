@@ -74,3 +74,5 @@
 // ismlar.pop();
 // console.log(ismlar);
 
+// 2-masala
+ const fruits = ['banana', 'apple', 'oringe','pear', 'peach'];
