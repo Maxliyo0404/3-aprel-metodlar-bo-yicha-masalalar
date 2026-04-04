@@ -64,3 +64,6 @@
 // console.log(newNumber);
  
 // 2-masala
+const fruits = ['banana', 'apple', 'oringe','pear', 'peach'];
+let fruit = fruits.filter();
+console.log(fruit);
