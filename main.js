@@ -98,3 +98,7 @@
 //   console.log(newFruit);
   
 // 9. Unshift metodi
+
+let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
+ismlar.shift();
+console.log(ismlar);
