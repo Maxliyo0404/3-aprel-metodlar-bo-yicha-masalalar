@@ -112,3 +112,7 @@
 //   let newNumber = numbers.splice(1, 3, 5, 4);
 //   console.log(newNumber);
   
+// 2-masala
+let numbers = [2, 8, 3,  7];
+ let newNumber = numbers.splice(1, 3, 5, 4);
+ console.log(newNumber);
