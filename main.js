@@ -108,4 +108,7 @@
 //  console.log(newFruit);
 
 // 10.Splice metodi
-const fruits = ['banana', 'apple', 'oringe'];
+  let numbers = [2, 8, 3,  7];
+  let newNumber = numbers.splice(1, 3, 5, 4);
+  console.log(newNumber);
+  
