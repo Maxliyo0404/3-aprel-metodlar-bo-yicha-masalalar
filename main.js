@@ -79,4 +79,6 @@
 //  let newFruit = fruits.pop();
 //  console.log(newFruit);
   
-7.Push metodi
+// 7.Push metodi
+ let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
+ let yangi = ismlar
