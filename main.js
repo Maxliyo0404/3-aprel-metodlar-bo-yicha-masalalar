@@ -83,4 +83,7 @@
 //  let ismlar = ['Rano', 'Barno','Malika', 'Dilshoda', 'Gulirano'];
 //  let yangi = ismlar.push('Malika');
 //  console.log(yangi);
- 
+//  2-masala
+ const fruits = ['banana', 'apple', 'oringe'];
+//  let newFruit = fruits.pop();
+//  console.log(newFruit);
