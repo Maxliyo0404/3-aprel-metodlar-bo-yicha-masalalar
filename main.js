@@ -69,3 +69,4 @@
 // console.log(newFruit);
 
 // 6. Pop metodi
+// 1-masala
