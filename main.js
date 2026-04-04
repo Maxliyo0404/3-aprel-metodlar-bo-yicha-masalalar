@@ -84,6 +84,6 @@
 //  let yangi = ismlar.push('Malika');
 //  console.log(yangi);
 //  2-masala
- const fruits = ['banana', 'apple', 'oringe'];
- fruits.push('peach');
- console.log(fruits);
+//  const fruits = ['banana', 'apple', 'oringe'];
+//  fruits.push('peach');
+//  console.log(fruits);
