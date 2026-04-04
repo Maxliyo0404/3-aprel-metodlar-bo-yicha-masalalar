@@ -102,3 +102,7 @@
 // let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
 // ismlar.unshift('Maxliyo');
 // console.log(ismlar);
+// 2-masala
+const fruits = ['banana', 'apple', 'oringe'];
+//   let newFruit = fruits.shift();
+//   console.log(newFruit);
