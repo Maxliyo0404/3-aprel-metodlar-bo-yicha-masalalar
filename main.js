@@ -85,5 +85,5 @@
 //  console.log(yangi);
 //  2-masala
  const fruits = ['banana', 'apple', 'oringe'];
-//  let newFruit = fruits.pop();
-//  console.log(newFruit);
+ fruits.push('peach');
+ console.log(fruits);
