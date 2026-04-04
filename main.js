@@ -99,6 +99,6 @@
   
 // 9. Unshift metodi
 
-let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-ismlar.shift();
-console.log(ismlar);
+// let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
+// ismlar.unshift('Maxliyo');
+// console.log(ismlar);
