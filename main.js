@@ -79,3 +79,4 @@
 //  let newFruit = fruits.pop();
 //  console.log(newFruit);
   
+7.Push metodi
