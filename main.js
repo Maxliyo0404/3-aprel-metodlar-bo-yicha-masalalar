@@ -59,6 +59,6 @@
 // console.log(sortmetod);
 
 // 5. Filter metodi
-let numbers =[2, 4, 10, 9, 20, 30, 40, 5, 80];
-let newNumber = numbers.filter(son => son > 10);
-console.log(newNumber);
+// let numbers =[2, 4, 10, 9, 20, 30, 40, 5, 80];
+// let newNumber = numbers.filter(son => son > 10);
+// console.log(newNumber);
