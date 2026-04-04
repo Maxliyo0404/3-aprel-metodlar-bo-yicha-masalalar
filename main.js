@@ -90,5 +90,5 @@
 
 // 8. Shift metodi
 let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-// ismlar.pop();
-// console.log(ismlar);
+ismlar.shift("Maxliyo");
+console.log(ismlar);
