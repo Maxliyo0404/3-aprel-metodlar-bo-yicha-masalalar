@@ -97,3 +97,4 @@
 //   let newFruit = fruits.shift();
 //   console.log(newFruit);
   
+// 9. Unshift metodi
