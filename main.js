@@ -71,4 +71,5 @@
 // 6. Pop metodi
 // 1-masala
 let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-let newismlar =
+let newismlar = ismlar.pop();
+console.log(newismlar);
