@@ -75,4 +75,7 @@
 // console.log(ismlar);
 
 // 2-masala
- const fruits = ['banana', 'apple', 'oringe','pear', 'peach'];
+ const fruits = ['banana', 'apple', 'oringe'];
+ let newFruit = fruits.pop();
+ console.log(newFruit);
+ 
