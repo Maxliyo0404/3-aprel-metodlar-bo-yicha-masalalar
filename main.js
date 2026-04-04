@@ -104,5 +104,5 @@
 // console.log(ismlar);
 // 2-masala
 const fruits = ['banana', 'apple', 'oringe'];
-//   let newFruit = fruits.shift();
-//   console.log(newFruit);
+ let newFruit = fruits.unshift("peach");
+ console.log(newFruit);
