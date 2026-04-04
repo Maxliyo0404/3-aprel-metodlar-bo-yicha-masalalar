@@ -103,6 +103,9 @@
 // ismlar.unshift('Maxliyo');
 // console.log(ismlar);
 // 2-masala
+// const fruits = ['banana', 'apple', 'oringe'];
+//  let newFruit = fruits.unshift("peach");
+//  console.log(newFruit);
+
+// 10.Splice metodi
 const fruits = ['banana', 'apple', 'oringe'];
- let newFruit = fruits.unshift("peach");
- console.log(newFruit);
