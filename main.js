@@ -67,3 +67,5 @@
 // const fruits = ['banana', 'apple', 'oringe','pear', 'peach'];
 // let newFruit = fruits.filter(fruit => fruit.length > 4);
 // console.log(newFruit);
+
+// 6. Pop metodi
