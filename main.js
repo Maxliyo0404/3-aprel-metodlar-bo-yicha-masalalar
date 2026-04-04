@@ -87,3 +87,5 @@
 //  const fruits = ['banana', 'apple', 'oringe'];
 //  fruits.push('peach');
 //  console.log(fruits);
+
+// 8. Shift metodi
