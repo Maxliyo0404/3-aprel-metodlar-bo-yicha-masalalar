@@ -108,7 +108,7 @@
 //  console.log(newFruit);
 
 // 10.Splice metodi
-  let numbers = [2, 8, 3,  7];
-  let newNumber = numbers.splice(1, 3, 5, 4);
-  console.log(newNumber);
+//   let numbers = [2, 8, 3,  7];
+//   let newNumber = numbers.splice(1, 3, 5, 4);
+//   console.log(newNumber);
   
