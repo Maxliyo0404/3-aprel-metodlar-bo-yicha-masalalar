@@ -113,6 +113,6 @@
 //   console.log(newNumber);
   
 // 2-masala
-let numbers = [2, 8, 3, 4, 6, 7];
- let newNumber = numbers.slice(1, 5);
- console.log(newNumber);
+// let numbers = [2, 8, 3, 4, 6, 7];
+//  let newNumber = numbers.slice(1, 5);
+//  console.log(newNumber);
