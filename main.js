@@ -70,6 +70,7 @@
 
 // 6. Pop metodi
 // 1-masala
-let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
-ismlar.pop();
-console.log(ismlar);
+// let ismlar = ['Rano', 'Malika', 'Dilshoda', 'Gulzoda'];
+// ismlar.pop();
+// console.log(ismlar);
+
